@@ -1,5 +1,5 @@
 import React from 'react';
-import Icon from "@material-ui/core/icon";
+import Icon from "@material-ui/core/Icon";
 import Card from '@material-ui/core/Card';
 import Textarea from 'react-textarea-autosize';
 import Button from '@material-ui/core/button';
